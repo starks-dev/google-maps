@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Google Maps Component
+
+This project purpose is to make a reusable component to use Google Maps
+
+#### Requirements
+
+- API Key from googleapis
+- script to load google maps api on index.html
+
 ## Available Scripts
 
 In the project directory, you can run:
