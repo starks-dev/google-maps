@@ -10,6 +10,11 @@ export interface GoogleMapsProps {
    * Color
    */
   private color?: string;
+
+  /**
+   * Render destinations Textfields
+   */
+  private destinations?: boolean;
 }
 
 export class GoogleMaps extends React.Component<GoogleMapsProps> {}

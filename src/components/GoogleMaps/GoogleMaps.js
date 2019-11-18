@@ -17,6 +17,10 @@ export class GoogleMaps extends React.Component {
   }
 
   render() {
-    return <div id={ELEMENT_ID}></div>;
+    return (
+      <div id="map-container">
+        <div id={ELEMENT_ID}></div>
+      </div>
+    );
   }
 }
